@@ -10,7 +10,7 @@ Peculium.sol is the contract of the PCL token
 
 PeculiumOld.sol is the contract of the old PCL token
 
-All other contracts are from OpenZeppelin and are dependencies for the PC contract
+All other contracts are from OpenZeppelin and are dependencies for the PCL contract
 
 
 # Requirements
