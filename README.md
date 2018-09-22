@@ -18,16 +18,17 @@ All other contracts are from OpenZeppelin and are dependencies for the PC contra
 NodeJs and npm
 
 Solc (the Solidity compiler)
-
+```
 npm install -g solc
-
+```
 
 # Deployment
-
+```
 solc --bin contracts/Peculium.sol
+```
 
 copy the EVM bytecode from terminal
 
-paste it into MyEtherWallet (tab create a contract)
+paste it into MyEtherWallet (tab "Contracts:create a contract")
 
 pay gas fees and deploy it
